@@ -1,0 +1,5 @@
+Credentials cache: API:16A8B08D-F5B2-4210-8380-1F90358D66B6
+Principal: alesanto@42.FR
+
+Issued                Expires               Principal
+Sep  2 11:50:21 2019  Sep  9 11:50:15 2019  krbtgt/42.FR@42.FR
