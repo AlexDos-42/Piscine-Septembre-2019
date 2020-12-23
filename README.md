@@ -4,7 +4,7 @@
 
 ### list of days
 
-- Shell 01 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/alesanto/C_Piscine/C_Piscine_Shell_00)](https://github.com/JaeSeoKim/badge42)
+- Shell 01
 - Shell 02
 - C00
 - C01
