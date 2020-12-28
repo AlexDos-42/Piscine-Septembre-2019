@@ -9,7 +9,7 @@
 |		            |									                                                  |       	              |
 |Shell 00   		|[Basic shell cmd](./Shell00)			                                 	|100% :white_check_mark:|
 |Shell 01	    	|[Advanced shell cmd](./Shell01)	      		                        |100% :white_check_mark:|
-|C00	        	|[Polymorphisme ad-hoc, overloads et classes canoniques](./C00)	  	|100% :white_check_mark:|
+|C00	        	|[Print](./C00)	  	|100% :white_check_mark:|
 |C01          	|[Héritage](./C01)						                                   		|100% :white_check_mark:|
 |C02          	|[Polymorphisme sous-type, classes abstraites, interfaces](./C02)		|100% :white_check_mark:|
 |C03          	|[Repetition et Exceptions](./C03)		                      				|100% :white_check_mark:|
