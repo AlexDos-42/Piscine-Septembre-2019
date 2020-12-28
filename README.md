@@ -13,8 +13,8 @@
 |C01          	|[Print int](./C01)						                                   		|100% :white_check_mark:|
 |C02          	|[Cpy, print](./C02)	                                              |100% :white_check_mark:|
 |C03          	|[Cpy, Cmp](./C03)                		                      				|100% :white_check_mark:|
-|C04          	|[Putnbr, Atoi](./C04)					                                          	|100% :white_check_mark:|
-|C05          	|[Templates](./C05)		                                       				|100% :white_check_mark:|
+|C04          	|[Putnbr, Atoi](./C04)					                                    |100% :white_check_mark:|
+|C05          	|[Iteratif, recursif](./C05)	  	                                  |100% :white_check_mark:|
 |C06          	|[Template de container, itérateurs, algorithmes](./C06)						|100% :white_check_mark:|
 |C07          	|[Template de container, itérateurs, algorithmes](./C07)						|100% :white_check_mark:|
 |C08          	|[Template de container, itérateurs, algorithmes](./C08)						|100% :white_check_mark:|
