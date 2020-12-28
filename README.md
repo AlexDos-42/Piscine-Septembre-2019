@@ -16,8 +16,8 @@
 |C04          	|[Putnbr, Atoi](./C04)					                                    |100% :white_check_mark:|
 |C05          	|[Iteratif, recursif](./C05)	  	                                  |100% :white_check_mark:|
 |C06          	|[Program to print](./C06)		                              				|100% :white_check_mark:|
-|C07          	|[Template de container, itérateurs, algorithmes](./C07)						|100% :white_check_mark:|
-|C08          	|[Template de container, itérateurs, algorithmes](./C08)						|100% :white_check_mark:|
-|C09          	|[Template de container, itérateurs, algorithmes](./C09)						|100% :white_check_mark:|
-|C10	          |[Template de container, itérateurs, algorithmes](./C10)						|100% :white_check_mark:|
-|C11          	|[Template de container, itérateurs, algorithmes](./C11)						|100% :white_check_mark:|
+|C07          	|[Split, Convert base, malloc](./C07)                   						|100% :white_check_mark:|
+|C08          	|[Headers](./C08)	                                        					|100% :white_check_mark:|
+|C09          	|[Makefile, Split](./C09)                               						|100% :white_check_mark:|
+|C10	          |[Cat, hexdump, display, tail](./C10)                   						|100% :white_check_mark:|
+|C11          	|[Pointeur sur fonction](./C11)                         						|100% :white_check_mark:|
