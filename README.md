@@ -16,7 +16,7 @@ My second Piscine in a row. Good luck if you try it.
 |C02          	|[Cpy, print](./C02)	                                              |100% :white_check_mark:|
 |C03          	|[Cpy, Cmp](./C03)                		                      				|100% :white_check_mark:|
 |C04          	|[Putnbr, Atoi](./C04)					                                    |100% :white_check_mark:|
-|C05          	|[Iteratif, recursif](./C05)	  	                                  |100% :white_check_mark:|
+|C05          	|[Iterative, recursive](./C05)	  	                                  |100% :white_check_mark:|
 |C06          	|[Program to print](./C06)		                              				|100% :white_check_mark:|
 |C07          	|[Split, Convert base, malloc](./C07)                   						|100% :white_check_mark:|
 |C08          	|[Headers](./C08)	                                        					|100% :white_check_mark:|
