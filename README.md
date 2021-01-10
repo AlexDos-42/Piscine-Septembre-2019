@@ -1,6 +1,6 @@
 # Piscine Septembre 2019
 
-My second Piscine in a row. Good luck if you try it. One advice: learn before you go.
+My second Piscine in a row. Good luck if you try it.
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
@@ -22,5 +22,5 @@ My second Piscine in a row. Good luck if you try it. One advice: learn before yo
 |C08          	|[Headers](./C08)	                                        					|100% :white_check_mark:|
 |C09          	|[Makefile, Split](./C09)                               						|100% :white_check_mark:|
 |C10	          |[Cat, hexdump, display, tail](./C10)                   						|100% :white_check_mark:|
-|C11          	|[Pointeur sur fonction](./C11)                         						|100% :white_check_mark:|
+|C11          	|[Function pointers](./C11)                         						|100% :white_check_mark:|
 |C12          	|[Linked list](./C11)                         						          |WIP 🔄                 |
