@@ -1,10 +1,10 @@
 # Piscine Septembre 2019
 
-My second Piscine in a row.
+My second Piscine in a row. Good luck if you try it. One advice: learn before you go.
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
-### list of days
+### List of Days
 
 |Module	        |Content		                 		    		                            |Status				      		|
 |:-:	          |:--		                        		                		    		    |:-:           					|
@@ -23,3 +23,4 @@ My second Piscine in a row.
 |C09          	|[Makefile, Split](./C09)                               						|100% :white_check_mark:|
 |C10	          |[Cat, hexdump, display, tail](./C10)                   						|100% :white_check_mark:|
 |C11          	|[Pointeur sur fonction](./C11)                         						|100% :white_check_mark:|
+|C12          	|[Linked list](./C11)                         						          |WIP 🔄                 |
